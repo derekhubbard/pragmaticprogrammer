@@ -1,0 +1,12 @@
+{
+    "disney": [
+        "mickey",
+        "minnie",
+        "donald"
+    ],
+    "walt": "disney",
+    "test": {
+        "one": "a",
+        "two": "b"
+    }
+}
